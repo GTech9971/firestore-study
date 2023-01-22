@@ -1,0 +1,7 @@
+{
+  "name": "firestore-study-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
